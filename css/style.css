@@ -1,0 +1,25 @@
+
+body {
+    background-color: #FFFFFF;
+}
+
+h1 {
+    margin-top: 88px;
+    text-align: center;
+    font-size: 88px;
+}
+
+form#youwilldie {
+    margin-left: 88px;
+    font-size: 44px;
+}
+
+form#youwilldie .ack {
+    /*
+    appearance: none;
+    */
+border-radius: 3px;
+display: inline-block;
+padding: 9px;
+        
+}
